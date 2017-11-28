@@ -1,0 +1,18 @@
+baseurl = "https://firefart.at"
+languageCode = "en-us"
+title = "FireFart"
+theme = "purehugo"
+copyright = "Copyright by Christian Mehlmauer"
+ignoreFiles = [ "^\\.DS_Store$" ]
+disableHugoGeneratorInject = true
+
+[params]
+  twitterName = "_FireFart_"
+  githubName = "FireFart"
+  description = "that austrian security guy"
+  author = "Christian Mehlmauer"
+
+[taxonomies]
+  tag = ""
+  group = ""
+  category = ""
